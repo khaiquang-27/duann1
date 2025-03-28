@@ -325,7 +325,7 @@ if (isset($_GET['act']) && ($_GET['act'] != "")) {
                             }
                             update_user($ma_nguoi_dung, $ho_ten, $email, $so_dien_thoai, $dia_chi,$hinh);
                     
-                            // Cập nhật thông tin session
+                            // Cập nhật thông tin sessio
                             $_SESSION['user']['ten'] = $ho_ten;
                             $_SESSION['user']['email'] = $email;
                             $_SESSION['user']['so_dien_thoai'] = $so_dien_thoai;
