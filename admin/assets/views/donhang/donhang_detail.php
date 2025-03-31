@@ -77,7 +77,7 @@
                 </table>
                 <a class="btn btn-primary" href="index.php?act=admin_donhang">Quay Lại</a>
 
-                <!-- nhập content -->
+                 
             </div>
         </div>
     </div>
